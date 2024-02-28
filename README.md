@@ -19,7 +19,7 @@ This project aims to classify SMS messages as either spam or not spam using vari
 1. Clone the repository:
 
 ```
-git clone https://github.com/your-username/sms-spam-classification.git
+git clone https://github.com/SyedFahad7/Spam-or-Ham.git
 ```
 
 2. Install the required libraries:
