@@ -1,4 +1,4 @@
-# <span style="color:blue">SMS Spam Classification Project</span>
+# <span style="color:yellow">Spam Classification Project</span>
 
 ## <span style="color:green">Overview</span>
 This project aims to classify SMS messages as either spam or not spam using various machine learning models. The dataset used in this project contains labeled SMS messages indicating whether they are spam or not spam.
